@@ -1,0 +1,32 @@
+LIST OF ACHIEVEMENTS
+
+Fundamentals.
+1. Scaling - 100	The player feels small compared with the meteors or planets
+2. Animation - 100	The player's ship constantly moving forward
+3. Lighting - 100	I used a directional light to add visibility to the planets and shininess to the meteors, especially golden ones
+4. Locomotion - 100	Use of accelerometer 
+5. Physics - 100	Adding a kinematic rigidbody to the player to collide with other objects and disable the gravity
+
+Completeness
+1.Gamification - 250	Adding a reward system for hitting golden meteors
+2.Diegetic UI - 250	Using voice recording which briefly explains the rules of the game (Scene scene, on start), adding a pictute of gold instead of writhing "Your score" on a score board (Level1 scene)
+
+Challenges
+1. User testing - 500		The user testing document is attached
+2. Compute shader - 500		The player, tunnel and menu panel have shaders on them which I recently wrote, and made them my favourite for this moment at least. 
+
+
+Mobile Performance & 360 Media Specialization
+• The project targets one or more mobile platforms.
+
+A link to a video explaining all achievements:
+https://www.youtube.com/watch?v=---G5w9BXXw&t=1s
+
+A link to a video walkthrough of your VR experience running on the device:
+https://youtu.be/MwHil0YsmzM
+
+Spacial Audio
+1. The Scene scene on the top of the camera
+2. In the Level1 scene at the position of the camera
+3. Level1 scene - in the Explosion prefab attached to the player, the audion gets activated when the player crashes
+4. Level1 scene - in the Gold prefab in the Particle folder, gets activated when the player hits a golden meteor

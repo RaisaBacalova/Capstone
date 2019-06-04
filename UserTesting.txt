@@ -1,0 +1,12 @@
+
+USER TESTING
+Scaling. The height and the width of the tunnel feels appropriate. Adequate space for moving. 
+
+UI. I had to move canvases a few times to make the text clear, not too close or too far from the player. 
+
+Movement. Everyone who has been tested said that the speed is good for them, however I believed that the ship moved too fast. Another issue I faced is with the accelerometer. The first time playing the game it is hard to get used to the speed of the turns, however after a few times playing the game everyone forgot about this problem, and one player even won the game.
+
+Object location. I tested people also to check the placement of the meteors, and ultimately, to see if was possible to win the game. It appeared that it is because one player won. The tunnel orientation had to be changed from diagonal to straight because by using the accelerometer it felt that the player was flying sideways.
+
+Object appearances. The ship’s material had to be changed to transparent material because of a reasonable comment that any objects below the ship such as meteors may be hidden from view by the ship’s body.
+

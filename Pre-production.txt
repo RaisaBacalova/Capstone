@@ -1,0 +1,41 @@
+Capstone Planning 
+
+Description.
+For my Capstone project, I will be building a game in which the player will be flying on a rocket in space and dodging meteors. Upon hitting a meteor, the player will crash. 
+
+Features and Dependencies
+1.	3D model  - the ship will be a simple capsule with an interesting shader
+	Meteors will be a low poly rock model
+2.	 Skybox – a dark empty space with stars, no nebulas or planets inside 
+
+Game Loop
+1.	Using an accelerometer as an input
+2.	A few levels in the game
+3.	The game will have a few levels with other obstacles, and task might be added like dodging the planets and going through some tunnels, or rings of meteors or small planets, etc
+4.	A chance to land on a planet – alternative storyline
+
+
+Other Effects
+1.	Simulate the effects of gravity from a planet or a black hole to drag the player in
+
+Capstone Scoping
+
+Features and Dependencies
+
+1. Doable:	3D model  - the ship will be a simple capsule with an interesting shader
+Meteors - rock model	
+2. Doable:	 Skybox – a dark empty space with stars, no nebulas or planets inside 
+
+
+Game Loop
+1. Doable:	Using an accelerometer as an input	
+2. Removed:	A few levels in the game (I did not have enough time)
+3. Removed:	The game will have a few levels with other obstacles, and task might be added like dodging the planets and going through some tunnels, or rings of meteors or small planets, etc. (I decided to build only one scene)
+4. Removed:	A chance to land on a planet – alternative storyline	
+(Will create one level only, will leave this part for the future)
+Added: Because the space is too large even in the game, some borders have to be added while leaving it a mobile optimized application. A tunnel limiting the game will be the simplest option
+Added: more interest in the game by gamification, not only dodging the meteors but also collecting some. 
+
+Other Effects
+1. Removed:	Simulate the effects of gravity from a planet or a black hole to drag the player in  (Will just make moving nebulas with a particle system)
+
